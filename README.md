@@ -1,6 +1,6 @@
-# Formulario con React JS
+# Portafolio con React JS
 
-Este proyecto es un formulario creado utilizando React JS. A continuación, se describen los pasos para configurarlo y ejecutarlo.
+Este proyecto es un portafolio creado utilizando React JS.
 
 Vista de PC 
 ![alt text](image-1.png)

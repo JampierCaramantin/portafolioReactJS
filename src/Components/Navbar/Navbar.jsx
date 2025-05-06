@@ -42,6 +42,3 @@ const Navbar = () => {
 }
 
 export default Navbar
-
-
-//https://www.youtube.com/watch?v=Y7FWhUFUzOM&list=PL1sZAh2_s8OQ53Gp9h1puwFufK46jV-3O&index=11
